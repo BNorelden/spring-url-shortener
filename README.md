@@ -1,0 +1,1 @@
+REST API URL shortener built with Java 17, Spring Boot 4, Postgres, and Docker Compose. Swagger UI included.
